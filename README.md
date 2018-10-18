@@ -4,7 +4,8 @@ Just a Worlddownlaod of the Survivalcraft Server by PhoenixSC and Fantom1. The S
 <br />
 Savannah and Spawn are Saved.<br />
 Spawn is at 0 65 0.<br />
-Other Things saved are:   frnk's Base<br />
+Other Things saved are:   <br />
+                          frnk's Base<br />
                           My Base<br />
                           Kdot's Village<br />
                           "Chaos" aka. Random Mesa Base with Swastikas<br />
