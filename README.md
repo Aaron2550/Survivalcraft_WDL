@@ -1,12 +1,12 @@
 # Survivalcraft_WDL
 
-Just a Worlddownlaod of the Survivalcraft Server by PhoenixSC and Fantom1. The Server runs like absolute bullshit and Moderators/Admins ban without any evidence.<br />
+Just a Worlddownload of the Survivalcraft Server by PhoenixSC and Fantom1. The Server runs like absolute bullshit. And is almost dead by now since all big players left.<br />
 <br />
 Savannah and Spawn are Saved.<br />
 Spawn is at 0 65 0.<br />
-Other Things saved are:   <br />
+Other Things saved BEFORE UPDATE 4 are:   <br />
                           frnk's Base<br />
-                          My Base<br />
+                          Alex's and My Base<br />
                           Kdot's Village<br />
                           "Chaos" aka. Random Mesa Base with Swastikas<br />
                           Protector's Island<br />
