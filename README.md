@@ -16,3 +16,18 @@ Other Things saved BEFORE UPDATE 4 are:   <br />
                           SmokyVeil's Base<br />
                           
                           
+Other Things saved in Update 5 are:   <br />
+                          frnk's Base<br />
+                          Alex's and My Base<br />
+                          Kdot's Village<br />
+                          "Chaos" aka. Random Mesa Base with Swastikas<br />
+                          Protector's Island<br />
+                          Shop Area at 3k 3k<br />
+                          SmokyVeil's Base<br />
+                          Many random bases spotted theroughout the world 800 2000 for example
+                          Mineville
+                          Shipwreck shore
+                          Chicken's Base
+                          Public Skeleton Farm
+                          BerdinskiyBear's Base
+                          CalebCraft17's Island
